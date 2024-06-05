@@ -1,0 +1,10 @@
+lightweight tag cf4662bce38e96ec1cf50d51bc881d6225a38f52 v1.3.4
+Author:	romdeau23 <43295566+romdeau23@users.noreply.github.com>
+Date:	Fri May 24 12:12:02 2024 +0200
+
+commit cf4662bce38e96ec1cf50d51bc881d6225a38f52
+Author: romdeau23 <43295566+romdeau23@users.noreply.github.com>
+Date:   Fri May 24 12:12:02 2024 +0200
+
+    Disable in timerunning
+

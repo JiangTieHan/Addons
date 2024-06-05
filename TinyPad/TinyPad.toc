@@ -1,0 +1,32 @@
+## Interface: 100207
+## Title: TinyPad
+## Notes: TinyPad is a notepad addon
+## Author: Gello
+## Version: 3.1.16
+## X-WoWI-ID: 4417
+## X-Wago-ID: RqGZpQ6d
+## X-Curse-Project-ID: 84962
+## SavedVariables: TinyPadSettings, TinyPadPages
+## IconTexture: Interface\Icons\INV_7XP_Inscription_TalentTome02
+## AddonCompartmentFunc: TinyPadToggleWindow
+
+init.lua
+main.lua
+
+templates\templates.xml
+templates\buttons.lua
+templates\scrollframe.lua
+
+panels\settings.lua
+panels\toolbar.lua
+panels\editor.lua
+panels\bookmarks.lua
+panels\confirmbar.lua
+panels\searchbar.lua
+
+misc\constants.lua
+misc\pages.lua
+misc\layout.lua
+misc\minimap.lua
+
+misc\external.lua

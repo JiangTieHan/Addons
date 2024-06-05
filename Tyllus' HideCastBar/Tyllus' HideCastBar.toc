@@ -1,0 +1,5 @@
+## Interface: 100205
+## Title: |cfcc3300fTyllus'|r HideCastBar
+## Notes: Hiding the default CastBar.
+## SavedVariables: TyllusHideCastBar
+Tyllus' HideCastBar.lua

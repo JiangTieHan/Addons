@@ -1,0 +1,34 @@
+lightweight tag a67fe3cbd59a915dc211160640ce03626b2f18db v1.20
+Author:	Mstislav Zhivodkov <stevemyz@gmail.com>
+Date:	Thu Mar 7 20:00:29 2024 +0000
+
+commit a67fe3cbd59a915dc211160640ce03626b2f18db
+Author: Mstislav Zhivodkov <stevemyz@gmail.com>
+Date:   Thu Mar 7 19:56:24 2024 +0000
+
+    Add warlock double corruption to blocklist
+
+commit 427b88bdfa57f354166828d3b5b27f4101c8be06
+Author: Mstislav Zhivodkov <stevemyz@gmail.com>
+Date:   Thu Mar 7 19:56:24 2024 +0000
+
+    Add warlock double corruption to blocklist
+
+commit c6773bb753294c562227cf3acee54dc7366e49cd
+Author: Mstislav Zhivodkov <stevemyz@gmail.com>
+Date:   Thu Mar 7 19:56:03 2024 +0000
+
+    Post refactoring fixes
+
+commit 2af6c323eda707310fdd8b9c23325e32f3298b9d
+Author: Mstislav Zhivodkov <stevemyz@gmail.com>
+Date:   Wed Mar 6 23:55:16 2024 +0000
+
+    Move icon component logic to a separate class
+
+commit c9b149cd6309690b46e96e82d9cea63e387d89fa
+Author: Mstislav Zhivodkov <stevemyz@gmail.com>
+Date:   Wed Mar 6 20:40:17 2024 +0000
+
+    Add more engineering items and arcane missiles spell to inner blocklist
+
